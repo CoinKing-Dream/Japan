@@ -1,0 +1,6 @@
+
+pip install selenium
+pip install gspread
+pip install configparser
+pip install tkinter
+pip install time

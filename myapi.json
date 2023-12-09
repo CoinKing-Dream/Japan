@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "beds24-to-aco-calender-sync",
+  "private_key_id": "2ee349539418364d13bdb21691257c4d4948339f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDiYtrxzcGfRC5V\nuPk2qNVHR9w3MCc3KSxmwx9qqSp/pN9P3dvyNpb8B+zbtnkQCaK85t2PyTp2jPcL\nVsLpS/LVXCc0j1GaCrUsLY3q8vM4in94/zYvLwoNpmP1CsW1XsTbGXHmgoe24EkR\ni9Fr5mDV9p6G80Bw+m69OWRH5eXK0l691f6sj4oNsFBmfzJ0T6BQFJHZmR1yci7Q\nPDqhf4d+Mgz9mnO5f2h87iVfSLPrp8Qb+7qpg9/KZ8mfCCo8S00C2yzYmeoyOyEd\nvcX8aLOpf5EbKJX6oTS0XZy1fql1L+Nw5Qza81F8CXO1NhmwK0tUd3Q3dpZsHvbj\nromAYaYBAgMBAAECggEAI9/5hT8Pc185HoGBEK3hmnmjRqWdWUrvi9tY86yaHP8y\nGjR0weXvuEHDQbAhcC6uuNO3Aa2oU5gUIBpgKdtMwI3pcpVRn6EZw8X2Sui0LV4Z\nREHhQsnoBHC9P1w1J4A8nuHh4F8IBa12Ns8a4UfxSYba6VTL/ftZqCfbod8nMqQm\nZAB9Nph5xYtIdo2aUSSCoVsJa6Me9305q8ON0PWeOlwg0G3JaSLVUUse3j3bW/27\nRiGJvRTCXZ0KR/WM1LfmhcwXKTGpYmDT4ttctvikq7e7heWgwKLOw7gWo+eIL+YY\npbcmVhmF2VipLK816R39zbjPmw+PWeT4YAs5C0o0RwKBgQD4bUuMZ6v5Lmq9FVtE\nOC4XB81hJWsq1gioIuoJnba3HXG3QMunf+KTBwdWQQ1yHioRuukNOSfOEs6ZCcnS\n012ABd+buIvsGTe15kNFnkJedznO+O1WANky8F00KNGyHnFh2ZblwdeLAtZhP5ws\nKv9otrLcn1k/ADIVbhf2pf7gfwKBgQDpSY45jEUbth4fk/0lvXXOmcprMYKXppNT\n/1Zqu1pN9OZdfQx5sxfJtjoFy21qs0xkCIkilXtzHIqcrzqAUmSxYCh9+kiFf3Cv\nRScr0r8e68n2GsJD5p1XM3WF2I5AFPvlMWiAhW9wFEulu67we3+yQrJUuPshOvA2\nzwoqnww5fwKBgQDDOLhOzMVzGsvcbST8dh2aEZKOzeXqkqnY3x8FkX+dZLERLgUc\nSr4Vhkd4u8RCMnwi1LwBnTGvmk3qK6wDVgA68+Klr5+dWK/T7PBejCBhtdWi1TFF\nDYOhqQvFSnKHQ68cEu6m/O5SGle3slIaz2tIsZHbGAn9HT0+Y/bG5+lkJwKBgEDu\nYTCxUxbodK/zX9VeS2jqs0VsrV2KVp1dh28DoJnsHSZOROemqmtRVgsA2P6G0y9Q\nlOLUWlzqx8Xem9jVlgMssXiG7iKCGxodlE6FRP7VQAxI3GNLz+VShFZxtP4vGQFs\n5BpJiX/XlkqV15ZFuYAjQkGEjxlrryqCK+E7DYr/AoGAQDXhBLKp7pUbzij5O6OX\nEAp77zWwKTwqgRWe0Zp4g10eku2bDlJ1sqHkHxbV5tx1KEc6cj/e6CdGbivOdPZH\nW9+Ts7WSWC91jtzBgA6X5r9V3+m7xyQz03RC1b6nPf+ym5cbsHEKy1O2C76HNANn\nrUqU0gksctnwVuZ3k5L9AH4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "beds24-to-aco-calender-sync-67@beds24-to-aco-calender-sync.iam.gserviceaccount.com",
+  "client_id": "100820041276381522189",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/beds24-to-aco-calender-sync-67%40beds24-to-aco-calender-sync.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
